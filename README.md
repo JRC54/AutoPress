@@ -1,4 +1,4 @@
-# Auto Presser for DQX
+# AutoPress for DQX
 
 ![AutoPress](https://i.imgur.com/7NC4Lmv.png)
 
