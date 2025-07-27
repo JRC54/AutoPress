@@ -2,7 +2,7 @@
 
 ![AutoPress](https://i.imgur.com/sNuyJZM.png)
 
-A simple desktop application to automate the right-arrow (->) key press, specifically designed to ease fatigue during long dialogue scenes in Dragon Quest X.
+A simple desktop application to automate any key press, specifically designed to ease fatigue during long dialogue scenes in Dragon Quest X.
 
 ## ✨ Features
 
