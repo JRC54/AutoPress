@@ -20,7 +20,7 @@ A simple desktop application to automate any key press, specifically designed to
     *   **Informative Tooltips**: Hover over any control to get a clear explanation of its function.
 
 *   **Configuration Management**:
-    *   **Automatic Saving**: Your settings—including keys, interval, theme, and language—are automatically saved and reloaded the next time you open the application.
+    *   **Automatic Saving**: Your settings (including keys, interval, theme, and language) are automatically saved and reloaded the next time you open the application.
 
 ## 🚀 How to Use
 
